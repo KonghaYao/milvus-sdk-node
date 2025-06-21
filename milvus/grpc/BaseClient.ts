@@ -1,6 +1,7 @@
 import crypto from 'crypto';
 import protobuf, { INamespace, Root } from 'protobufjs';
-import { readFileSync } from 'fs';
+import fs from 'fs';
+const { readFileSync } = fs;
 import {
   Client,
   ChannelOptions,

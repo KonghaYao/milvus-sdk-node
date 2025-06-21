@@ -11,7 +11,7 @@ import {
   getDataKey,
   RowData,
   _Field,
-  JSON,
+  type JSON,
   FieldData,
   CreateCollectionWithFieldsReq,
   CreateCollectionWithSchemaReq,
