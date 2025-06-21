@@ -1,5 +1,5 @@
 {
-  "name": "@zilliz/milvus2-sdk-node",
+  "name": "milvus2-sdk-esm",
   "author": "Zilliz",
   "milvusVersion": "v2.6.0-rc1",
   "version": "2.6.0-rc1",
